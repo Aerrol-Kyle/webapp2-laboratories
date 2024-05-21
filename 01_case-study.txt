@@ -1,0 +1,16 @@
+﻿Case Study #1
+
+
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients. The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, it becomes apparent that several tasks are still in progress, and there are unresolved bugs that need attention. The testing process, crucial for ensuring product quality, has not yet begun. As a software engineer involved in the project, what aspects could have been handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, and a delayed testing process?
+
+
+For this activity, evaluate the situation and offer your suggestions on areas where improvements could have been made.
+
+
+Answer:
+
+
+First, I think the project consumed too much time on planning which affects the overall task progress. I would suggest implementing Agile Methodology on this project. Firstly, in Agile we can break the project into manageable sprints that typically lasts for 2-4 weeks. Using agile will allow the team to maximize the time, with this the team can regularly test the project. This will ensure that errors are found and addressed early on in the process instead of building up until the very end. Also, to prevent delays, regular meetings will be helpful to consistently monitor the progress of the entire team.
+
+
+The team can concentrate on the most critical work first and handle critical features and urgent concerns on time by keeping a prioritized backlog. Agile places a strong emphasis on evaluating at the conclusion of each sprint, which fosters a culture of continuous improvement and enables the team to improve processes and learn from each iteration. This methodology aids in the enhancement of work delegation, and guarantees the timely delivery of high-quality software products.
